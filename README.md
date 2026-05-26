@@ -13,6 +13,7 @@ AgmGPT-3 represents the pinnacle of my custom architecture research. It is a 4.7
 
 | Model | Architecture | Focus |
 | :--- | :--- | :--- |
+| AgmGPT-3.5 | GPT | 9M params, algorithmic and code improvements. (Coming Soon)|
 | [AgmGPT-3](https://github.com/Adolfo-GM/AgmGPT-3) | GPT | 4.71M params, optimized transformer architecture, and high coherence. |
 | [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2) | LLM Fine-tune | Exploration of fine-tuning foundational models. |
 | [AggmGPT-1.5](https://github.com/Adolfo-GM/AggmGPT-1.5) | Hybrid N-Gram | Scaling attention-like mechanisms over complex n-gram structures. |
